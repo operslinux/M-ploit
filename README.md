@@ -33,8 +33,12 @@ $ apt install git python3
 ```
 $ git clone https://github.com/operslinux/M-ploit.git
 ```
+
 ```
 $ cd M-ploit
+```
+```
+$ chmod +x M-ploit.py
 ```
 
 # [ Setup ]
