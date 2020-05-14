@@ -20,6 +20,8 @@ ___  ___  __ __ __      __  _____    __     __  __
 Este es un pequeño script muy sencillo para poder automatizar las conexiones adb combina con shodan
 No nos hacemos responsables por el mal uso de la herramienta, ya que esta creado con fines educativos e
 informativos y asi poder hacer pruebas con un entorno controlado.
+
+Tambien hace falta optimizarlo ya que solo fue adjuntado con el script de shodan, pero en un futuro lo optimizaremos.
 ```
 <a href="https://ibb.co/CvNjsmn"><img src="https://i.ibb.co/QnzWjp6/captura.png" alt="captura" border="0"></a>
 
