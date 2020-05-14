@@ -1,0 +1,63 @@
+Camera Manufacturer 	Username 	Password 	Default IP
+3xLogic 	admin 	12345 	192.0.0.64
+ACTi 	Admin or admin 	123456 	192.168.0.100
+American Dynmics 	admin 	admin 	192.168.1.168
+Arecont Vision 	admin 	no set password 	no default/DHCP
+Avigilon 	admin 	admin 	no default/DHCP
+Axis 	root 	pass or no set password 	192.168.0.90
+Basler 	admin 	admin 	192.168.100.x
+Bosch 	service 	service 	192.168.0.1
+Bosch 	Dinion 	no set password 	192.168.0.1
+Brickcom 	admin 	admin 	192.168.1.1
+Canon 	root 	Model# of camera 	192.168.100.1
+CBC Ganz 	admin 	admin 	192.168.100.x
+Cisco 	no default 	no set password 	192.168.0.100
+CNB 	root 	admin 	192.168.123.100
+Costar 	root 	root 	unknown
+Dahua 	admin 	admin 	192.168.1.108
+Digital Watchdog 	admin 	admin 	192.168.1.123
+DRS 	admin 	1234 	192.168.0.200
+DVTel 	Admin 	1234 	192.168.0.250
+DynaColor 	Admin 	1234 	192.168.0.250
+FLIR 	admin 	fliradmin 	192.168.250.116
+Foscam 	admin 	[leave blank] 	unknown
+GeoVision 	admin 	admin 	192.168.0.10
+Grandstream 	admin 	admin 	192.168.1.168
+GVI 	Admin 	1234 	192.168.0.250
+HIKVision 	admin 	12345 	192.0.0.64
+Honeywell 	administrator 	1234 	no default/DHCP
+IOImage 	admin 	admin 	192.168.123.10
+IPX-DDK 	root 	Admin or admin 	192.168.1.168
+IQInvision 	root 	system 	no default/DHCP
+JVC 	admin 	Model# of camera 	no default/DHCP
+LTS Security 	admin 	123456 	192.0.0.64
+March Networks 	admin 	[leave blank] 	unknown
+Merit Lilin Camera 	admin 	pass 	no default/DHCP
+Merit Lilin Recorder 	admin 	1111 	no default/DHCP
+Messoa 	admin 	Model# of camera 	192.168.1.30
+Mobotix 	admin 	meinsm 	no default/DHCP
+Northern 	admin 	12345 	192.168.1.64
+Panasonic 	admin 	12345 	192.168.0.253
+Panasonic 	admin1 	password 	192.168.0.253
+Pelco 	admin 	admin 	no default/DHCP
+PiXORD 	admin 	admin 	192.168.0.200
+PiXORD 	root 	pass 	192.168.0.200
+QVIS 	Admin 	1234 	192.168.0.250
+Samsung 	root 	4321 or admin 	192.168.1.200
+Samsung 	admin 	4321 or 1111111 	192.168.1.200
+Sanyo 	admin 	admin 	192.168.0.2
+Sentry360 	Admin 	1234 	192.168.0.250
+Sony 	admin 	admin 	192.168.0.100
+Speco 	root 	root 	192.168.1.7
+Speco 	admin 	admin 	192.168.1.7
+StarDot 	admin 	admin 	no default/DHCP
+Starvedia 	admin 	no set password 	no default/DHCP
+Toshiba 	root 	ikwb 	192.168.0.30
+Trendnet 	admin 	admin 	192.168.10.1
+UDP 	root 	unknown 	unknown
+Ubiquiti 	ubnt 	ubnt 	192.168.1.20
+W-Box 	admin 	wbox123 	192.0.0.64
+Wodsee 	admin 	[leave blank] 	unknown
+Verint 	admin 	admin 	no default/DHCP
+VideoIQ 	supervisor 	supervisor 	no default/DHCP
+Vivotek 	root 	no set password 	no default/DHCP
