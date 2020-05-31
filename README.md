@@ -24,6 +24,10 @@ informativos y asi poder hacer pruebas con un entorno controlado.
 Tambien hace falta optimizarlo ya que solo fue adjuntado con el script de shodan, pero en un futuro lo optimizaremos.
 ```
 <a href="https://ibb.co/CvNjsmn"><img src="https://i.ibb.co/QnzWjp6/captura.png" alt="captura" border="0"></a>
+```
+Kali LInux
+Parrot OS
+```
 
 # [Instalacion]
 ```
@@ -47,6 +51,9 @@ $sudo chmod +x M-ploit.py
 ```
 $ pip3 install -r requirements.txt
 ```
+
+
+
 # [ Running ]
 ```
 $ python3 M-ploit.py
