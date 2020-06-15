@@ -58,6 +58,7 @@ def main():
 
 
         elif opcion == 4:
+            os.system("adb start-server")
             ip =input("{0}[{1}@{0}] {2}COLOCA LA IP DEL DISPOSITIVO...... {1}>> {3}".format(Fore.CYAN, Fore.RED, Fore.WHITE, Fore.RESET))
             print("{0}[{1}@{0}] {2}DESCONECTANDO DISPOSITIVOS {3} ......".format(Fore.CYAN, Fore.RED, Fore.WHITE, Fore.RESET))
             os.system("adb disconnect " + ip)
@@ -84,6 +85,8 @@ def main():
             captura = "captura" + str(contador)
             os.system("adb -s " + ip + " shell screencap -p /sdcard/" + captura)
             os.system("adb -s " + ip + " pull /sdcard/" + captura)
+            sleep(5)
+            os.system("adb -s " + ip + " shell rm /sdcard/" + captura)
 
         elif opcion == 7:
             os.system("adb devices")
@@ -151,6 +154,8 @@ def main():
                                                                                       Fore.RESET))
             os.system("adb -s " + ip + " shell screenrecord --time-limit 20 /sdcard/mivideo.mp4")
             os.system("adb -s " + ip + " pull /sdcard/mivideo.mp4")
+            sleep(5)
+            os.system("adb -s " + ip + " shell rm /sdcard/mivideo.mp4")
 
         elif opcion == 13:
             os.system("adb kill-server")
@@ -173,4 +178,5 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         LogoTwo()
         exit()
+
 
