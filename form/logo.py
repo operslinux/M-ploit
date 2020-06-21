@@ -28,7 +28,7 @@ def LogoCero():
                                || || 
                               ooO Ooo 
                 Canal Oficial YouTube:
-                        https://www.youtube.com/
+                        https://www.youtube.com/opersweenlinux
 """ + Fore.RESET)
 
 
@@ -44,7 +44,7 @@ def LogoOne():
 ..//___//
 .//___//       
                      Canal Oficial YouTube:
-                        https://www.youtube.com/ 
+                        https://www.youtube.com/opersweenlinux
                                           
                                           """ + Fore.RESET)
 
@@ -60,7 +60,7 @@ def LogoTwo():
 \___/\/   \__\/ \_\__/  \____\____/\_\ \/  \___/_/\_\
 
               Canal Oficial YouTube:
-                        https://www.youtube.com/
+                        https://www.youtube.com/opersweenlinux
 
 	""" + Fore.RESET)
 
